@@ -1,0 +1,14 @@
+C:\Users\Thiago\source\repos\ConsumindoApi\ConsumindoApi\bin\Debug\net8.0\ConsumindoApi.exe
+C:\Users\Thiago\source\repos\ConsumindoApi\ConsumindoApi\bin\Debug\net8.0\ConsumindoApi.deps.json
+C:\Users\Thiago\source\repos\ConsumindoApi\ConsumindoApi\bin\Debug\net8.0\ConsumindoApi.runtimeconfig.json
+C:\Users\Thiago\source\repos\ConsumindoApi\ConsumindoApi\bin\Debug\net8.0\ConsumindoApi.dll
+C:\Users\Thiago\source\repos\ConsumindoApi\ConsumindoApi\bin\Debug\net8.0\ConsumindoApi.pdb
+C:\Users\Thiago\source\repos\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\source\repos\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.dll
+C:\Users\Thiago\source\repos\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\refint\ConsumindoApi.dll
+C:\Users\Thiago\source\repos\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.pdb
+C:\Users\Thiago\source\repos\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ConsumindoApi.genruntimeconfig.cache
+C:\Users\Thiago\source\repos\ConsumindoApi\ConsumindoApi\obj\Debug\net8.0\ref\ConsumindoApi.dll
